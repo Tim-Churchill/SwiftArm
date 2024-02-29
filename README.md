@@ -5,9 +5,9 @@ This project is focused on building and coding a robotic arm to imitate the natu
 
 The combination of a wrist and a hand will include 12 degrees of freedom
  - 1 DOF for each finger for a combination of 4 DOF.
- - 2 DOF for thumb.
+ - 3 DOF for thumb.
  - 6 DOF total for fingers + thumb.
- - 1 DOF for locking joints
+ - 0 DOF for locking joints
  - 1 DOF for spread
  - 4 DOF for wrist movements
 
